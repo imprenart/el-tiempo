@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    margin-top: 20px;
+}
+
+ul{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin-top: 20px;
+    margin-left: 35%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}

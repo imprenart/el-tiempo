@@ -1,0 +1,29 @@
+.ciudad {
+  background-color: rgb(20, 79, 241);
+  margin-top: 15px;
+  margin-left: 35%;
+  display: flex;
+  width: 30%;
+  border-radius: 10px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+h2 {
+  color: white;
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.info{
+    margin-top: 15px;
+    font-size: 20px;
+    color: white;
+}
+
+
